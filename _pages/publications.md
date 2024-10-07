@@ -10,6 +10,7 @@ redirect_from:
 
 <div class="wordwrap">This is a partial list of my publications. You can also find my articles, including preprints, on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
+
 Journals
 ======
 * [Quantum computation with charge-and-color-permuting twists in qudit color codes](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022621) <br /> Manoj G. Gowda and Pradeep Sarvepalli, _Phys. Rev. A 105, 022621_
