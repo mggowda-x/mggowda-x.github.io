@@ -9,8 +9,9 @@ main:
     url: /cv/
     
   - title: "Publications"
-    url: https://scholar.google.co.in/citations?user=NA5DXNQAAAAJ&hl=en 
-    #url:/publications/
+    url: /publications/
+    # url: https://scholar.google.co.in/citations?user=NA5DXNQAAAAJ&hl=en 
+    
 
   # - title: "Talks"
   #   url: /talks/    
