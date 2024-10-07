@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">This is a partial list of my publications. You can also find my articles, including preprints, on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 Journals
 ======
@@ -15,5 +15,5 @@ Journals
 
 * [Color codes with twists: Construction and universal-gate-set implementation](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.012603) <br /> Manoj G. Gowda and Pradeep Sarvepalli, _Phys. Rev. A 104, 012603_
 
-* [Quantum computation with generalized dislocation codes](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.042616) <br /> Manoj G. Gowda and Pradeep Sarvepalli,  _ Phys. Rev. A 102, 042616 _
+* [Quantum computation with generalized dislocation codes](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.042616) <br /> Manoj G. Gowda and Pradeep Sarvepalli, _Phys. Rev. A 102, 042616_
   
