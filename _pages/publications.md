@@ -1,11 +1,12 @@
 ---
-permalink: /
-title: ""
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /publications/
-  - /publications.html
 ---
+
 
 <div class="wordwrap">This is a partial list of my publications. You can also find my articles, including preprints, on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
