@@ -13,7 +13,7 @@ redirect_from:
 
 Journals
 ======
-* [Color code with domino twists: construction, logical measurements, and computation](https://link.springer.com/article/10.1007/s11128-025-04703-y) <br /> Manoj G. Gowda, _Quantum Inf Process 24, 87 (2025).
+* [Color code with domino twists: construction, logical measurements, and computation](https://link.springer.com/article/10.1007/s11128-025-04703-y) <br /> Manoj G. Gowda, _Quantum Inf Process 24, 87 (2025)_.
   
 * [Quantum computation with charge-and-color-permuting twists in qudit color codes](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.022621) <br /> Manoj G. Gowda and Pradeep Sarvepalli, _Phys. Rev. A 105, 022621_
 
