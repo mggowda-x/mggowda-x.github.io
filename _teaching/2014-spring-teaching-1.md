@@ -1,17 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "IIT Kanpur"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: ""
+date: 
+location: " "
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Advanced Electronics Circuits Lab
 ======
+Responsibilities included helping students in implementing various electronic circuits and evaluating their performance.
 
 Heading 2
 ======
