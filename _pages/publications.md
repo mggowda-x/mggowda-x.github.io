@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<div class="wordwrap">This list of papers is in reverse chronological order and includes only papers published in journals or conferences. You can also find all my papers, including preprints, on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">This list of papers is in reverse chronological order and includes only papers published in journals or conferences. Please visit <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> for all my papers, including preprints.</div>
 
 
 Journals
