@@ -4,10 +4,9 @@ title: ""
 permalink: /talks/
 author_profile: true
 redirect_from:
-  - /Talks/
+  - /talks/
 ---
 
 
+<div class="wordwrap">To be updated soon.</div>
 
-<div class="wordwrap"> To be updated soon.
-  
