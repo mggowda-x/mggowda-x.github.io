@@ -9,5 +9,5 @@ redirect_from:
 
 
 
-<div class="wordwrap"> To be updated soon..
+<div class="wordwrap"> To be updated soon.
   
